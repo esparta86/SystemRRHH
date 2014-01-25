@@ -1,0 +1,6 @@
+[20-Apr-2013 10:57:03] PHP Warning:  Invalid argument supplied for foreach() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/modulos/gestion_g_ocupacional/procesos/update_grupo.php on line 48
+[22-Apr-2013 17:00:01] PHP Fatal error:  Call to undefined function  json_last_error() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/modulos/gestion_g_ocupacional/procesos/guardar_grupo.php on line 18
+[22-Apr-2013 17:03:03] PHP Fatal error:  Call to undefined function  json_last_error() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/modulos/gestion_g_ocupacional/procesos/guardar_grupo.php on line 17
+[22-Apr-2013 17:03:25] PHP Fatal error:  Call to undefined function  json_last_error() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/modulos/gestion_g_ocupacional/procesos/guardar_grupo.php on line 17
+[22-Apr-2013 17:11:48] PHP Fatal error:  Call to undefined function  json_last_error() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/modulos/gestion_g_ocupacional/procesos/guardar_grupo.php on line 22
+[02-May-2013 13:21:56] PHP Warning:  Invalid argument supplied for foreach() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/modulos/gestion_g_ocupacional/procesos/update_grupo.php on line 49

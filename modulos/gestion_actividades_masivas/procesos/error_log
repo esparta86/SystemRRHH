@@ -1,0 +1,12 @@
+[19-Apr-2013 17:26:10] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/actividadesMasivas.class.php on line 485
+[19-Apr-2013 17:26:10] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/actividadesMasivas.class.php on line 485
+[19-Apr-2013 17:26:10] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/actividadesMasivas.class.php on line 485
+[19-Apr-2013 17:26:10] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/actividadesMasivas.class.php on line 466
+[19-Apr-2013 17:26:10] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/actividadesMasivas.class.php on line 466
+[19-Apr-2013 17:26:10] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/actividadesMasivas.class.php on line 466
+[20-Apr-2013 11:38:59] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areasxactividad.class.php on line 57
+[20-Apr-2013 11:38:59] PHP Warning:  Invalid argument supplied for foreach() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/actividadesMasivas.class.php on line 118
+[20-Apr-2013 11:39:14] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areasxactividad.class.php on line 57
+[20-Apr-2013 11:47:17] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areasxactividad.class.php on line 57
+[20-Apr-2013 11:47:17] PHP Warning:  Invalid argument supplied for foreach() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/actividadesMasivas.class.php on line 339
+[20-Apr-2013 11:47:23] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areasxactividad.class.php on line 57

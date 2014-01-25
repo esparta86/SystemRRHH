@@ -1,0 +1,11 @@
+[20-Apr-2013 10:30:43] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/empleado.class.php on line 436
+[20-Apr-2013 10:38:08] PHP Warning:  Invalid argument supplied for foreach() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/modulos/evaluar_empleado/procesos/guardar_ponderacionesPLANxempleado.php on line 29
+[20-Apr-2013 11:33:37] PHP Warning:  Invalid argument supplied for foreach() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/modulos/evaluar_empleado/procesos/guardar_ponderacionesPLANxempleado.php on line 29
+[20-Apr-2013 11:33:59] PHP Warning:  Invalid argument supplied for foreach() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/modulos/evaluar_empleado/procesos/guardar_ponderacionesPLANxempleado.php on line 29
+[02-May-2013 15:00:14] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/empleado.class.php on line 436
+[02-May-2013 15:11:08] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/empleado.class.php on line 436
+[02-May-2013 15:11:48] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/empleado.class.php on line 436
+[02-May-2013 15:14:37] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/empleado.class.php on line 436
+[02-May-2013 15:15:49] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/empleado.class.php on line 436
+[02-May-2013 15:20:03] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/empleado.class.php on line 436
+[02-May-2013 16:59:00] PHP Warning:  Invalid argument supplied for foreach() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/modulos/evaluar_empleado/procesos/guardar_ponderacionesPLANxempleado.php on line 29

@@ -1,0 +1,8 @@
+[20-Apr-2013 10:40:34] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areasxactividad.class.php on line 57
+[20-Apr-2013 10:43:53] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/empleado.class.php on line 500
+[20-Apr-2013 10:46:09] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areasxactividad.class.php on line 57
+[20-Apr-2013 11:36:33] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areasxactividad.class.php on line 57
+[20-Apr-2013 11:36:44] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areasxactividad.class.php on line 57
+[20-Apr-2013 11:36:52] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areasxactividad.class.php on line 57
+[20-Apr-2013 11:37:20] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areasxactividad.class.php on line 57
+[20-Apr-2013 11:46:59] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areasxactividad.class.php on line 57

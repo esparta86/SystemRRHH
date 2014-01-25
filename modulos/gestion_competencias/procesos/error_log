@@ -1,0 +1,17 @@
+[19-Apr-2013 17:26:27] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areas_evaluaciond.class.php on line 42
+[19-Apr-2013 17:26:27] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/competencias.class.php on line 388
+[19-Apr-2013 17:26:27] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/realiza_escalas_evaluacion.class.php on line 36
+[20-Apr-2013 08:41:57] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areas_evaluaciond.class.php on line 42
+[20-Apr-2013 08:41:57] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/realiza_escalas_evaluacion.class.php on line 36
+[20-Apr-2013 08:41:57] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/competencias.class.php on line 388
+[20-Apr-2013 08:42:12] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areas_evaluaciond.class.php on line 42
+[20-Apr-2013 08:42:12] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/competencias.class.php on line 388
+[20-Apr-2013 08:42:12] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/realiza_escalas_evaluacion.class.php on line 36
+[20-Apr-2013 08:48:34] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areas_evaluaciond.class.php on line 42
+[20-Apr-2013 08:48:34] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/realiza_escalas_evaluacion.class.php on line 36
+[20-Apr-2013 08:48:39] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/valoracion.class.php on line 79
+[20-Apr-2013 08:48:45] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areas_evaluaciond.class.php on line 42
+[20-Apr-2013 08:48:45] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/realiza_escalas_evaluacion.class.php on line 36
+[20-Apr-2013 08:51:44] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/areas_evaluaciond.class.php on line 42
+[20-Apr-2013 08:51:44] PHP Fatal error:  Call to a member function RecordCount() on a non-object in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/recursos/class/realiza_escalas_evaluacion.class.php on line 36
+[20-Apr-2013 10:52:04] PHP Warning:  Invalid argument supplied for foreach() in /home4/avanceyd/public_html/avanceydesempeno/sysrrhh/modulos/gestion_competencias/procesos/guardar_competenciaEV.php on line 49

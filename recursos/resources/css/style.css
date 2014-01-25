@@ -1,0 +1,19 @@
+.startbutton {
+background-image: url(../../img/PDF.png) !important;
+}
+
+.contactIcon80 {
+background-image: url(../../img/PDF.png) !important;
+width:40px!important;
+height:40px!important;
+margin-right: auto !important;
+margin-left: auto !important;
+}
+
+.bigBtn {
+position: absolute;
+bottom: 4px  !important;
+left: 0%  !important;
+text-align: center !important;
+width: 64px !important;
+}

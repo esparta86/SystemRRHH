@@ -1,0 +1,5 @@
+algunas consideraciones
+
+algunos archivos por la forma de la logica del negocio
+ tienen la terminancion EV  = archivoEV.php 
+significa que es para el proceso Evaluacion del desempeño

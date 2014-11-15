@@ -8,7 +8,7 @@ if (!isset($_SESSION)) { session_start(); }
     $idproceso=$_SESSION["idproceso"];
     $imageempresa="../recursos/img/empresas/".$_SESSION["imagen"];
     $empleado=$_SESSION["empleado"];
-
+    
    
 ?>
 <html>
@@ -104,7 +104,7 @@ Ext.onReady(login_conamype.Panel.init,login_conamype.Panel);
 
 			</td>
 			<td align="center">
-				<b>Bienvenido  </b>  <?php echo $empleado?>
+				<b>Bienvenid(@) </b>  <?php echo $empleado?>
 			</td>
 			<td align="right">
 				<a href="procesos_login/cerrar_sesion.php" title="Cerrar Sesion"><img src="../recursos/img/logou.png" width="50" height="50">Cerrar Sesion</a> 
